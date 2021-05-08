@@ -1,7 +1,7 @@
 import { Product } from "./product";
 import { ResponseModel } from "./responseModel";
 
-export interface ProductResponseModels extends ResponseModel{
-    data:Product[],
+export interface ListResponseModel<T> extends ResponseModel{
+    data:T[],
     
 }
