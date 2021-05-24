@@ -21,6 +21,7 @@
     "@angular/router": "~11.2.12",
     "bootstrap": "^5.0.0-beta3",
     "css-loader": "^5.0.1",
+    "gsap": "^3.6.1",
     "jquery": "^3.6.0",
     "ngx-toastr": "^14.0.0",
     "rxjs": "~6.6.0",
